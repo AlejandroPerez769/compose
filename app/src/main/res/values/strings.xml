@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+
+    <string-array name="emails_array">
+        <item>carladom@gmail.com</item>
+        <item>alu123@ieselcaminas.org</item>
+        <item>correocarla@gmail.es</item>
+    </string-array>
+    <string name="title_activity_settings_compose">SettingsComposeActivity</string>
+</resources>
