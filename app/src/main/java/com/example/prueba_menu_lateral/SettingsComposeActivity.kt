@@ -30,17 +30,15 @@ fun SettingsScreen() {
             )
         }
     ) { padding ->
-        // Contenedor principal que ocupa todo el espacio disponible
         Box(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentAlignment = Alignment.Center // Centra el contenido
+            contentAlignment = Alignment.Center
         ) {
-            // Texto que indica la opción seleccionada
             Text(
                 text = "Opción seleccionada",
-                fontSize = 24.sp // Tamaño de texto
+                fontSize = 24.sp
             )
         }
     }
